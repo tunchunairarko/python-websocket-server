@@ -4,3 +4,4 @@
 .tox
 .env
 *.egg-info
+animus_robot_controller_aws.pem
